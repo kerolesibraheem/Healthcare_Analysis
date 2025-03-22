@@ -4,4 +4,4 @@ hospital data including patient age, The Insurance provider, medication outcomes
 
 I identified the most frequent hospital-visiting age groups, analyzed the effectiveness of medications based on patient outcomes, Tracked hospitals traffic and performance over the years, and highlighted the top-performing doctors based on patient results.
 
-The goal is to help stakeholders make informed decisions regarding patient care strategies and medication effectiveness.
+The goal was to help stakeholders make informed decisions regarding patient care strategies and medication effectiveness.
