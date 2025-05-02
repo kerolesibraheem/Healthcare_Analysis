@@ -15,7 +15,7 @@ Shows the annual number of patients treated:
 
 - 2018: 283 
 
-- 2019: 1,835
+- 2019: 1,836
 
 - 2020: 1,926
 
@@ -32,24 +32,42 @@ There is significant growth between 2018–2019, followed by a plateau and sligh
 
 - Others: Michael Smith, Robert Brown, Michelle Anderson, Matthew Smith, Jennifer Smith, James Perez.
 
+## Medication Effectiveness – Patient Results
+- Lipitor has the highest number of abnormal results (676), suggesting potential adverse outcomes in more cases.
+
+- Penicillin has the highest number of normal results (640), indicating better patient response.
+
+- Ibuprofen and Paracetamol show relatively balanced distributions.
+  
+- Aspirin has slightly more normal outcomes compared to abnormal and inconclusive.
+
 ## Patient Distribution by Age Group
-Age groups with the most patients:
+- 28–37 years: 1,422 patients (highest)
+ 
+- 78–87 years with 1,080 patients (lowest)
 
-- 28–37 years: 1,422 patients
+## Insurance Provider Utilization
+Top 3 insurers by number of patients covered:
 
-- 58–67 years: 1,403 patients
+- Cigna: 1,914
 
-- 68–77 years: 1,385 patients
+- Aetna: 1,907
 
-- Lowest: 78–87 years with 1,080 patients (Lowest)
+- Blue Cross: 1,896
 
+## Patient Gender Distribution
+- Female: 51%
 
+- Male: 49%
 
+## Purpose and Outcome
+- Track yearly patient intake trends.
 
+- Evaluate medication effectiveness.
 
+- Analyze insurance provider usage.
 
+- Identify top-performing medical staff.
 
+- Monitor age-based service distribution.
 
-I identified the most frequent hospital-visiting age groups, analyzed the effectiveness of medications based on patient outcomes, Tracked hospitals traffic and performance over the years, and highlighted the top-performing doctors based on patient results.
-
-The goal was to help stakeholders make informed decisions regarding patient care strategies and medication effectiveness.
