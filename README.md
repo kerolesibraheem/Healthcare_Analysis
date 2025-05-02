@@ -3,6 +3,13 @@
 This project presents a Healthcare Analysis Dashboard built using Excel to gather insights from 
 hospital data including patient age, The Insurance provider, medication outcomes, billing from 2018 to 2023. It is designed to support healthcare administrators in evaluating trends, optimizing care delivery, and managing costs.
 
+## Data Cleaning & Preparation:
+- Ensured data accuracy and consistency.
+
+- Handled missing values and duplicates.
+
+- Normalized Data Fields and Unified Time Formats.
+
 ## Key Metrics Summary
 - Total Number of Patients: 9,378
 
@@ -59,6 +66,11 @@ Top 3 insurers by number of patients covered:
 - Female: 51%
 
 - Male: 49%
+
+## Tools and Technologies Used:
+- Excel for creating interactive data visualizations and dashboards.
+- Power Query for data transformation.
+- Pivot Tables for summarize, analyze, and visualize the data.
 
 ## Purpose and Outcome
 - Track yearly patient intake trends.
