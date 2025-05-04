@@ -1,7 +1,7 @@
 # Healthcare_Analysis
 ## Project Summary
 This project presents a Healthcare Analysis Dashboard built using Excel to gather insights from 
-hospital data including patient age,  insurance providers, medication outcomes and billing information from 2018 to 2023. It is designed to support healthcare administrators in evaluating trends, optimizing care delivery, and managing costs.
+hospital data including patient age,  insurance providers, medication outcomes and billing information from 2018 to 2023. It is designed to support healthcare administrators in evaluating trends, optimizing care delivery and managing costs.
 
 ## Data Cleaning & Preparation:
 - Ensured data accuracy and consistency.
