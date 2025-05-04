@@ -68,9 +68,9 @@ Top 3 insurers by number of patients covered:
 - Male: 49%
 
 ## Tools & Techniques
-- Excel for creating interactive data visualizations and dashboards.
-- Power Query for data transformation.
-- Pivot Tables for summarize, analyze, and visualize the data.
+- Microsoft Excel
+- Power Query
+- Pivot Tables
 
 ## Purpose and Outcome
 - Track yearly patient intake trends.
