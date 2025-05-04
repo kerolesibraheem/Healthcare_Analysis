@@ -72,7 +72,7 @@ Top 3 insurers by number of patients covered:
 - Power Query
 - Pivot Tables
 
-## Purpose and Outcome
+## Purpose
 - Track yearly patient intake trends.
 
 - Evaluate medication effectiveness.
